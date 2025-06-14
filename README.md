@@ -6,7 +6,7 @@ SEBAS es una plataforma diseñada para ayudar a estudiantes ingresantes de carre
 
 ## Objetivo
 
-Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practicar, ejercitar y autoevaluarse en temas fundamentales para su formación universitaria a través de una aplicación móvil.
+Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practicar, ejercitar y autoevaluarse en temas fundamentales de contenidos STEM para su formación universitaria a través de una aplicación móvil.
 
 ## Público objetivo
 
