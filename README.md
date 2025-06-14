@@ -11,7 +11,10 @@ Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practic
 ## Público objetivo
 
 - Estudiantes ingresantes a carreras universitarias STEM (Ingenierías y Licenciaturas)
-- Docentes y tutores de cursos de nivelación o ingreso universitario
+- Docentes y tutores de cursos de nivelación o ingreso universitario de materias relacionadas a STEM
+
+## Stakeholders
+
 
 ## Características principales
 
@@ -23,7 +26,7 @@ Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practic
 
 ## Contenidos preliminares
 
-# Matemática
+## Matemática
 1. Aritmética y Álgebra:
 a. Operaciones básicas con números reales: suma, resta, multiplicación y división.
 b. Propiedades de los números reales y sus subconjuntos: naturales, enteros, racionales e irracionales.
@@ -54,7 +57,7 @@ b. Cálculo de determinantes y su aplicación en la resolución de sistemas
 de ecuaciones lineales.
 c. Inversa de una matriz y sus propiedades.
 
-# Física
+## Física
 1. Mecánica Clásica:
 a. Cinemática: Estudio del movimiento de los cuerpos sin considerar las causas que lo producen. Incluye conceptos como posición, desplazamiento, velocidad (media e instantánea) y aceleración. 
 b. Dinámica: Análisis de las fuerzas y sus efectos en el movimiento de los cuerpos. Se centra en las leyes de Newton y su aplicación en diversos sistemas.
@@ -77,9 +80,6 @@ capacitancia e inductancia.
 5. Óptica:
 a. Propagación de la Luz: Estudio de la naturaleza de la luz, reflexión, refracción y formación de imágenes mediante lentes y espejos.
 
-## Epicas 
-
-
 ## Referencias a la temática
 
 https://blog.orange.es/noticias/que-es-stem-y-por-que-se-las-conoce-como-profesiones-del-futuro/
@@ -97,6 +97,158 @@ https://www.trespuntoelearning.com/insignias-digitales-elearning/
 - Cloud: AWS y GCP (expansible según requerimientos)
 - [Completar con frameworks, lenguajes, o tecnologías específicas si corresponde]
 
+## Arquitectura
+
+
+## Supuestos y dependencias
+
+Los usuarios tienen acceso regular a internet
+Las instituciones educativas proporcionarán el contenido curricular específico
+Disponibilidad de APIs para servicios de autenticación
+
+## Requerimientos Funcionales y No funcionales
+
+RF001 - Gestión de Usuarios
+Descripción: El sistema debe permitir el registro y autenticación de usuarios con diferentes roles.
+Criterios de Aceptación:
+El usuario puede registrarse con email institucional
+Validación de dominio universitario
+Recuperación de contraseña por email
+Perfil personalizable con foto y datos académicos
+Autenticación de dos factores opcional
+
+RF002 - Módulo de Matemáticas
+Descripción: Proporcionar herramientas interactivas para álgebra, cálculo y matemáticas discretas.
+Criterios de Aceptación:
+Ejercicios progresivos de álgebra lineal
+Visualizador de funciones matemáticas
+Calculadora de derivadas e integrales paso a paso
+Generador de ejercicios aleatorios
+Sistema de pistas y ayudas contextuales
+
+RF003 - Módulo de Física
+Descripción: Simuladores y ejercicios de mecánica, termodinámica y electromagnetismo.
+Criterios de Aceptación:
+Simulador de movimiento en 2D
+Calculadora de circuitos eléctricos básicos
+Experimentos virtuales de laboratorio
+Biblioteca de constantes físicas
+Conversor de unidades automático
+
+RF004 - Módulo de Química
+Prioridad: TBD
+Descripción: Herramientas para química general e inorgánica básica.
+Criterios de Aceptación:
+
+Tabla periódica interactiva
+Balanceador de ecuaciones químicas
+Calculadora de concentraciones
+Simulador de reacciones básicas
+Base de datos de propiedades de elementos
+
+RF005 - Sistema de Progreso
+Descripción: Tracking personalizado del avance académico del estudiante.
+Criterios de Aceptación:
+Dashboard con métricas de rendimiento
+Gráficos de progreso por materia
+Sistema de logros y badges
+Recomendaciones personalizadas de estudio
+Exportar reportes de progreso
+
+RF006 - Foro Académico
+Descripción: Espacio de discusión y colaboración entre estudiantes.
+Criterios de Aceptación:
+Categorización por materia y tema
+Sistema de votación para respuestas
+Moderación automática básica
+Notificaciones de respuestas
+Búsqueda avanzada en discusiones
+
+RF007 - Modo Offline
+Descripción: Funcionalidades básicas disponibles sin conexión a internet.
+Criterios de Aceptación:
+
+Descarga de ejercicios para uso offline
+Calculadoras funcionan sin conexión
+Sincronización automática al reconectar
+Almacenamiento local de progreso
+Indicador visual de estado de conexión
+
+Requerimientos No Funcionales
+RNF001 - Rendimiento
+
+Tiempo de respuesta máximo: 2 segundos para operaciones básicas
+Inicio de aplicación: máximo 3 segundos
+Capacidad para 1000 usuarios concurrentes
+Consumo de batería optimizado
+
+RNF002 - Usabilidad
+
+Interfaz intuitiva que requiera mínima curva de aprendizaje
+Navegación consistente en toda la aplicación
+Accesibilidad para usuarios con discapacidades
+Soporte multiidioma (español e inglés inicialmente)
+
+RNF003 - Confiabilidad
+
+Disponibilidad del sistema: 99.5% Mensual
+Respaldo automático de datos de usuario
+Recuperación ante fallos en menos de 5 minutos
+Validación de entrada de datos robusta
+
+RNF004 - Seguridad
+
+Encriptación de datos sensibles
+Autenticación segura con tokens JWT
+Protección contra ataques de inyección
+Cumplimiento con LGPD/GDPR para protección de datos
+
+RNF005 - Portabilidad
+
+Compatibilidad con Android 8.0+ e iOS 12.0+
+Adaptación a diferentes resoluciones de pantalla
+Funcionalidad consistente entre plataformas
+Instalación máxima de 150MB
+
+## Épicas 
+
+1. Onboarding y personalización
+Como estudiante ingresante, quiero poder registrarme y configurar mi perfil con mis intereses y carrera, para recibir contenidos adecuados a mi nivel y objetivos.
+
+2. Gestión de contenidos educativos
+Como estudiante, quiero acceder a contenidos organizados por áreas (matemática, física, química, programación, etc.) y niveles de dificultad, para poder aprender de forma progresiva.
+
+3. Sistema de ejercicios interactivos
+Como estudiante, quiero resolver ejercicios prácticos con retroalimentación inmediata, para aplicar y afianzar los conceptos aprendidos.
+
+4. Seguimiento del progreso
+Como estudiante, quiero visualizar mi avance en cada materia o módulo, para saber qué me falta estudiar o reforzar.
+
+5. Gamificación
+Como estudiante, quiero ganar puntos, medallas o recompensas por completar desafíos, para sentirme motivado a continuar aprendiendo.
+
+6. Notificaciones y recordatorios
+Como estudiante, quiero recibir recordatorios para continuar con mis estudios o alertas sobre nuevos contenidos, para mantenerme al día.
+
+7. Modo sin conexión
+Como estudiante, quiero poder acceder a ciertos contenidos sin conexión a internet, para estudiar desde cualquier lugar sin depender de la red.
+
+8. Evaluaciones diagnósticas y adaptativas
+Como estudiante, quiero realizar una evaluación inicial que determine mis conocimientos previos, para recibir un plan de estudio adaptado a mis necesidades.
+
+9. Interacción con docentes y tutores
+Como estudiante, quiero poder hacer consultas o recibir apoyo de docentes o tutores dentro de la app, para resolver dudas y mejorar mi comprensión.
+
+10. Accesibilidad e inclusión
+Como estudiante con necesidades específicas, quiero que la app sea accesible (lectores de pantalla, contraste, etc.), para poder usarla sin barreras.
+
+11. Administración de usuarios y contenidos (para administradores/docentes)
+Como docente o administrador, quiero gestionar usuarios, crear y editar contenidos o cargar evaluaciones, para mantener la aplicación actualizada y útil.
+
+12. Panel analítico (para docentes o gestores)
+Como docente o coordinador, quiero visualizar estadísticas de uso y avance de los estudiantes, para tomar decisiones pedagógicas informadas.
+
+
 ## Instalación
 
 [Completar con los pasos de instalación y configuración si es de código abierto. Si es un SaaS, proveer link de acceso.]
@@ -104,6 +256,11 @@ https://www.trespuntoelearning.com/insignias-digitales-elearning/
 ## Uso
 
 [Agregar ejemplos de uso, capturas de pantalla o instrucciones básicas]
+
+<img width="216" alt="image" src="https://github.com/user-attachments/assets/16d337ad-879b-4f4b-a3f2-7fa878566e14" />
+<img width="629" alt="image" src="https://github.com/user-attachments/assets/c1db434e-938a-4c2d-ad56-f6904293d363" />
+<img width="625" alt="image" src="https://github.com/user-attachments/assets/23887501-b76d-45ec-a4d6-720abeae39e9" />
+
 
 ## Contribuidores
 
