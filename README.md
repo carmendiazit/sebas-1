@@ -120,6 +120,7 @@ https://www.trespuntoelearning.com/insignias-digitales-elearning/
 
 ## Requerimientos Funcionales y No funcionales
 
+**RF**
 RF001 - Gestión de Usuarios
 Descripción: El sistema debe permitir el registro y autenticación de usuarios con diferentes roles.
 Criterios de Aceptación:
@@ -151,7 +152,6 @@ RF004 - Módulo de Química
 Prioridad: TBD
 Descripción: Herramientas para química general e inorgánica básica.
 Criterios de Aceptación:
-
 Tabla periódica interactiva
 Balanceador de ecuaciones químicas
 Calculadora de concentraciones
@@ -179,14 +179,13 @@ Búsqueda avanzada en discusiones
 RF007 - Modo Offline
 Descripción: Funcionalidades básicas disponibles sin conexión a internet.
 Criterios de Aceptación:
-
 Descarga de ejercicios para uso offline
 Calculadoras funcionan sin conexión
 Sincronización automática al reconectar
 Almacenamiento local de progreso
 Indicador visual de estado de conexión
 
-Requerimientos No Funcionales
+**RNF**
 RNF001 - Rendimiento
 
 Tiempo de respuesta máximo: 2 segundos para operaciones básicas
