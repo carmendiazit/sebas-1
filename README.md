@@ -1,2 +1,2 @@
 # sebas
-Proyecto SEBAS -Sistema de Ejercitación y entrenamiento en ciencias básicas
+Proyecto SEBAS -Sistema de ejercitación y entrenamiento en ciencias básicas
