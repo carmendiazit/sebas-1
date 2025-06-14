@@ -17,14 +17,14 @@ Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practic
 
 | ID  | Interesado | Rol |
 | ------------- | ------------- |------------- |
-| ST001  | Estudiantes ingresantes de carreras con contenido STEM | Rol: Usuario principal del sistema  |
+| ST001  | Estudiantes ingresantes de carreras con contenido STEM | Usuario principal del sistema  |
 | ST002  | Docentes de Materias de Ciencias Básicas  | Supervisores académicos y validadores de contenidos |
 | ST003  | Directores de Carrera/Coordinadores Académicos | Tomadores de decisión institucional |
 | ST004 | Personal de IT Institucional | Administradores técnicos y soporte |
 | ST005 | Equipo de desarrollo | Responsables de codificación, testing, arquitectura |
 | ST006 | Padres   | Financiadores indirectos de la educación |
 | ST007 | Ministerio de Educación | Entidad reguladora de estándares y planes educativos |
-| ST008 | Sponsor/Inversionistas | Financiadores del proyecto |
+| ST008 | Sponsor/Patrocinadores | Colaboradores en la financiación del proyecto |
 | ------------- | ------------- |------------- |
 
 
