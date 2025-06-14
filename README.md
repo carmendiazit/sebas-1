@@ -273,7 +273,8 @@ Como docente o coordinador, quiero visualizar estadísticas de uso y avance de l
 <img width="216" alt="image" src="https://github.com/user-attachments/assets/16d337ad-879b-4f4b-a3f2-7fa878566e14" />
 <img width="629" alt="image" src="https://github.com/user-attachments/assets/c1db434e-938a-4c2d-ad56-f6904293d363" />
 <img width="625" alt="image" src="https://github.com/user-attachments/assets/23887501-b76d-45ec-a4d6-720abeae39e9" />
-![image](https://github.com/user-attachments/assets/19603770-fb52-4ad3-b7c2-d7f279ee69e4)
+<img width="272" alt="image" src="https://github.com/user-attachments/assets/956f49da-eaea-487d-b0e5-d02f17d92cc8" />
+
 
 
 ## Contribuidores
