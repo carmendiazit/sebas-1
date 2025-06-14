@@ -21,6 +21,9 @@ Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practic
 - Módulos iniciales: Matemáticas, Física y Química
 - Plataforma escalable para agregar nuevos contenidos y disciplinas
 
+## Contenidos preliminares
+
+
 ## Tecnologías
 
 - Cloud: AWS y GCP (expansible según requerimientos)
