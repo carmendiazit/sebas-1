@@ -23,6 +23,39 @@ Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practic
 
 ## Contenidos preliminares
 
+1. Mecánica Clásica:
+a. Cinemática: Estudio del movimiento de los cuerpos sin considerar las
+causas que lo producen. Incluye conceptos como posición,
+desplazamiento, velocidad (media e instantánea) y aceleración.
+b. Dinámica: Análisis de las fuerzas y sus efectos en el movimiento de
+los cuerpos. Se centra en las leyes de Newton y su aplicación en
+diversos sistemas.
+c. Trabajo y Energía: Definición de trabajo mecánico, energía cinética y
+potencial, y el principio de conservación de la energía.
+d. Cantidad de Movimiento: Estudio del impulso, cantidad de movimiento
+lineal y su conservación en colisiones elásticas e inelásticas.
+2. Oscilaciones y Ondas:
+a. Movimiento Armónico Simple: Análisis de sistemas que exhiben
+movimientos periódicos, como resortes y péndulos.
+b. Ondas Mecánicas: Propagación de perturbaciones en medios
+materiales, incluyendo conceptos de frecuencia, longitud de onda,
+velocidad de propagación y principios de superposición.
+
+3. Termodinámica:
+a. Temperatura y Calor: Conceptos de temperatura, escalas
+termométricas, calor y transferencia de energía térmica.
+b. Leyes de la Termodinámica: Estudio de las leyes que rigen los
+procesos térmicos y sus aplicaciones en sistemas físicos.
+4. Electricidad y Magnetismo:
+a. Campos Eléctricos y Magnéticos: Descripción de las fuerzas eléctricas
+y magnéticas, incluyendo la ley de Coulomb y las leyes de Gauss.
+b. Electrostática, electrodinámica, leyes de Maxwell.
+c. Circuitos Eléctricos: Análisis de circuitos simples de corriente
+continua, Ley de Ohm, ley de Kirchhoff y conceptos de resistencia,
+capacitancia e inductancia.
+5. Óptica:
+a. Propagación de la Luz: Estudio de la naturaleza de la luz, reflexión,
+refracción y formación de imágenes mediante lentes y espejos.
 
 ## Tecnologías
 
