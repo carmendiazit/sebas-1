@@ -23,6 +23,7 @@ Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practic
 
 ## Contenidos preliminares
 
+# Física
 1. Mecánica Clásica:
 a. Cinemática: Estudio del movimiento de los cuerpos sin considerar las
 causas que lo producen. Incluye conceptos como posición,
