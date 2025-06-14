@@ -13,7 +13,19 @@ Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practic
 - Estudiantes ingresantes a carreras universitarias STEM (Ingenierías y Licenciaturas)
 - Docentes y tutores de cursos de nivelación o ingreso universitario de materias relacionadas a STEM
 
-## Stakeholders
+## Stakeholders/Grupos interesados
+
+| ID  | Interesado | Rol |
+| ------------- | ------------- |------------- |
+| ST001  | Estudiantes ingresantes de carreras con contenido STEM | Rol: Usuario principal del sistema  |
+| ST002  | Docentes de Materias de Ciencias Básicas  | Supervisores académicos y validadores de contenidos |
+| ST003  | Directores de Carrera/Coordinadores Académicos | Tomadores de decisión institucional |
+| ST004 | Personal de IT Institucional | Administradores técnicos y soporte |
+| ST005 | Equipo de desarrollo | Responsables de codificación, testing, arquitectura |
+| ST006 | Padres   | Financiadores indirectos de la educación |
+| ST007 | Ministerio de Educación | Entidad reguladora de estándares y planes educativos |
+| ST008 | Sponsor/Inversionistas | Financiadores del proyecto |
+| ------------- | ------------- |------------- |
 
 
 ## Características principales
@@ -102,9 +114,9 @@ https://www.trespuntoelearning.com/insignias-digitales-elearning/
 
 ## Supuestos y dependencias
 
-Los usuarios tienen acceso regular a internet
-Las instituciones educativas proporcionarán el contenido curricular específico
-Disponibilidad de APIs para servicios de autenticación
+- Los usuarios tienen acceso regular a internet
+- Las instituciones educativas proporcionarán el contenido curricular específico
+- Disponibilidad de APIs para servicios de autenticación
 
 ## Requerimientos Funcionales y No funcionales
 
