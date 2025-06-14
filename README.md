@@ -83,11 +83,9 @@ a. Propagación de la Luz: Estudio de la naturaleza de la luz, reflexión, refra
 ## Referencias a la temática
 
 https://blog.orange.es/noticias/que-es-stem-y-por-que-se-las-conoce-como-profesiones-del-futuro/
-https://www.lavanguardia.com/vida/formacion/20200207/473328901977/ciencias-tecnologia-matematicas-carrera-universidad-rectorese-espana-educacion.ht
-ml
+https://www.lavanguardia.com/vida/formacion/20200207/473328901977/ciencias-tecnologia-matematicas-carrera-universidad-rectorese-espana-educacion.html
 https://www.clarin.com/tecnologia/adictos-celular-mitad-adolescentes-argentinos-pasan-12-horas-dia-telefono-mano_0_J8XsHzftS.html
-https://www.fing.edu.uy/sites/default/files/claustro_citaciones/2017/distribuido/3
-1436/53%20(2016-2018)%20Com.%20Activ.%20Ense%C3%B1anza.%20Documento%20Problema%20de%20la%20Matem%C3%A1tica%2007.10.17.pdf
+https://www.fing.edu.uy/sites/default/files/claustro_citaciones/2017/distribuido/31436/53%20(2016-2018)%20Com.%20Activ.%20Ense%C3%B1anza.%20Documento%20Problema%20de%20la%20Matem%C3%A1tica%2007.10.17.pdf
 https://www.nuevarevista.net/el-auge-de-las-microcredenciales-y-su-impacto-en-la-educacion-del-futuro/
 https://www.infobae.com/educacion/2018/01/24/psicologos-y-abogados-pero-no-ingenieros-en-algunas-disciplinas-clave-se-reciben-menos-de-25-alumnos/
 https://fiq.unl.edu.ar/vivilafiq/en-busca-de-mas-ingenieros-para-cambiar-la-argentina/
