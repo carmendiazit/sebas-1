@@ -5,7 +5,8 @@ Services at the first iteration
 - ECR: a managed service that helps you register container images.
 - DynamoDB: we are going to use DynamoDB as the database (see further scenarios).
 - SNS: helps us create and manage several kinds of notifications.
-
+- IAM Roles are going to assign to Elastict BeanStalk.
+- CloudWatch helps us monitor application metrics and behavior.
 Other services for further scenarios:
 - Transcribe: for use cases that require transcribing text based on app audio, like Duolingo, we can use this service to extract text from audio. Conversely, Polly can be used to generate audio based on text.
 - CloudFront: we may need caching content for static resources.
