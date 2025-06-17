@@ -1,10 +1,10 @@
 Services at the first iteration 
-- Cognito in order to manage the user pool and identity. It helps you add user sign-up, sign-in, and access control to your mobile and web apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers such as Apple, Facebook, Google, and Amazon, as well as enterprise identity providers using SAML 2.0, and also allows federation.
+- Amazon Cognito in order to manage the user pool and identity. It helps you add user sign-up, sign-in, and access control to your mobile and web apps quickly and easily. Amazon Cognito scales to millions of users and supports sign-in with social identity providers such as Apple, Facebook, Google, and Amazon, as well as enterprise identity providers using SAML 2.0, and also allows federation.
 - API Gateway: once users are authenticated, they can make HTTPS requests through API Gateway, a managed service that helps you create and expose your APIs securely. API Gateway also provides key plans for several API stages. You can link an ELB load balancer or EC2 endpoints.
-- Elastic Beanstalk: a managed service that allows you to create and deploy your apps without focusing on the infrastructure. It manages servers and load balancers on your behalf.
-- ECR: a managed service that helps you register container images.
-- DynamoDB: we are going to use DynamoDB as the database (see further scenarios).
-- SNS: helps us create and manage several kinds of notifications.
+- AWS Elastic Beanstalk: a managed service that allows you to create and deploy your apps without focusing on the infrastructure. It manages servers and load balancers on your behalf.
+- Amazon ECR: a managed service that helps you register container images.
+- Amazon DynamoDB: we are going to use DynamoDB as the database (see further scenarios).
+- Amazon SNS: helps us create and manage several kinds of notifications.
 - IAM Roles are going to assign to Elastic BeanStalk.
 - CloudWatch helps us monitor application metrics and behavior.
 Other services for further scenarios:
