@@ -21,6 +21,13 @@ https://www.infobae.com/educacion/2018/01/24/psicologos-y-abogados-pero-no-ingen
 https://fiq.unl.edu.ar/vivilafiq/en-busca-de-mas-ingenieros-para-cambiar-la-argentina/
 https://www.trespuntoelearning.com/insignias-digitales-elearning/
 
+## Algunas iniciativas similares
+
+- Matefácil: https://matefacil.net/
+- EY STEM App: https://play.google.com/store/apps/details?id=com.ey.a.stemtribe&pli=1
+- Brilliant: https://brilliant.org/
+- Khan Academy (Math Courses): https://www.khanacademy.org/
+
 ## Objetivo
 
 - Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practicar, ejercitar y autoevaluarse en temas fundamentales de contenidos STEM para su formación universitaria a través de una aplicación móvil.
