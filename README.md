@@ -262,11 +262,7 @@ Como docente o administrador, quiero gestionar usuarios, crear y editar contenid
 Como docente o coordinador, quiero visualizar estadísticas de uso y avance de los estudiantes, para tomar decisiones pedagógicas informadas.
 
 
-## Instalación
-
-[Completar con los pasos de instalación y configuración si es de código abierto. Si es un SaaS, proveer link de acceso.]
-
-## Uso
+## Maquetado/sketch
 
 [Agregar ejemplos de uso, capturas de pantalla o instrucciones básicas]
 
