@@ -351,6 +351,8 @@ Como docente o coordinador, quiero visualizar estadísticas de uso y avance de l
 
 <img width="272" alt="image" src="https://github.com/user-attachments/assets/956f49da-eaea-487d-b0e5-d02f17d92cc8" />
 
+## Ejercicios de ejemplo:
+
 
 
 ## Contribuidores
