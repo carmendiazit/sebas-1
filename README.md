@@ -2,16 +2,42 @@
 
 **Sistema de Ejercitación y Entrenamiento en Ciencias Básicas**
 
-SEBAS es una plataforma diseñada para ayudar a estudiantes ingresantes de carreras de ingeniería y licenciaturas a fortalecer y entrenar sus conocimientos en Ciencias Básicas, con especial foco en disciplinas STEM. Inicialmente, el sistema incluye contenidos de Matemáticas, Física y Química.
+SEBAS es una plataforma diseñada para ayudar a estudiantes ingresantes de carreras de ingeniería y licenciaturas a fortalecer y entrenar sus conocimientos en Ciencias Básicas. Inicialmente, el sistema incluye contenidos de Matemáticas, Física y Química.
+
+## Problemática que intenta resolver
+
+- Alta deserción o bajo rendimiento en las materias de ciencias básicas en los primeros años de Ingeniería.
+- Dificultades de los estudiantes para adaptarse al ritmo universitario y a la lógica abstracta requerida.
+- Necesidad de herramientas complementarias, accesibles y adaptativas para reforzar contenidos clave.
+
+## Referencias a la temática
+
+https://blog.orange.es/noticias/que-es-stem-y-por-que-se-las-conoce-como-profesiones-del-futuro/
+https://www.lavanguardia.com/vida/formacion/20200207/473328901977/ciencias-tecnologia-matematicas-carrera-universidad-rectorese-espana-educacion.html
+https://www.clarin.com/tecnologia/adictos-celular-mitad-adolescentes-argentinos-pasan-12-horas-dia-telefono-mano_0_J8XsHzftS.html
+https://www.fing.edu.uy/sites/default/files/claustro_citaciones/2017/distribuido/31436/53%20(2016-2018)%20Com.%20Activ.%20Ense%C3%B1anza.%20Documento%20Problema%20de%20la%20Matem%C3%A1tica%2007.10.17.pdf
+https://www.nuevarevista.net/el-auge-de-las-microcredenciales-y-su-impacto-en-la-educacion-del-futuro/
+https://www.infobae.com/educacion/2018/01/24/psicologos-y-abogados-pero-no-ingenieros-en-algunas-disciplinas-clave-se-reciben-menos-de-25-alumnos/
+https://fiq.unl.edu.ar/vivilafiq/en-busca-de-mas-ingenieros-para-cambiar-la-argentina/
+https://www.trespuntoelearning.com/insignias-digitales-elearning/
 
 ## Objetivo
 
-Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practicar, ejercitar y autoevaluarse en temas fundamentales de contenidos STEM para su formación universitaria a través de una aplicación móvil.
+- Brindar un entorno interactivo y adaptativo donde los estudiantes puedan practicar, ejercitar y autoevaluarse en temas fundamentales de contenidos STEM para su formación universitaria a través de una aplicación móvil.
+- Mejorar el desempeño académico de los estudiantes participantes.
+- Incrementar la motivación y autonomía en el aprendizaje.
 
+  
 ## Público objetivo
 
-- Estudiantes ingresantes a carreras universitarias STEM (Ingenierías y Licenciaturas)
-- Docentes y tutores de cursos de nivelación o ingreso universitario de materias relacionadas a STEM
+- Estudiantes ingresantes a carreras universitarias tales como Ingenierías y Licenciaturas con contenido de Ciencias básicas (Matemática, Física, Quimica)
+- Docentes y tutores de cursos de nivelación o ingreso universitario de materias relacionadas a STEM.
+
+## Contribuciones del Proyecto
+
+- Innovación educativa en ingeniería.
+- Promoción de la permanencia estudiantil en carreras con alta deserción.
+- Transferencia tecnológica: en caso de tener buena aceptación, la posibilidad de escalar el modelo a otras materias o carreras.
 
 ## Stakeholders/Grupos interesados
 
@@ -52,8 +78,7 @@ c. Funciones trigonométricas: seno, coseno, tangente y sus inversas.
 d. Identidades trigonométricas y resolución de triángulos.
 3. Funciones y Gráficas:
 a. Concepto de función y su representación gráfica.
-b. Tipos de funciones: lineales, cuadráticas, polinómicas, exponenciales
-y logarítmicas.
+b. Tipos de funciones: lineales, cuadráticas, polinómicas, exponenciales y logarítmicas.
 c. Transformaciones de funciones y análisis de sus propiedades: dominio, rango, continuidad y periodicidad
 4. Cálculo Diferencial e Integral:
 a. Límites y continuidad de funciones.
@@ -92,17 +117,68 @@ capacitancia e inductancia.
 5. Óptica:
 a. Propagación de la Luz: Estudio de la naturaleza de la luz, reflexión, refracción y formación de imágenes mediante lentes y espejos.
 
-## Referencias a la temática
+## Química
+1. Estructura Atómica y Tabla Periódica:
+a. Modelos atómicos históricos y actuales.
+b. Estructura del átomo: protones, neutrones y electrones.
+c. Número atómico, número másico e isótopos.
+d. Configuración electrónica y niveles de energía.
+e. Clasificación de elementos en la tabla periódica: grupos, períodos y propiedades periódicas (radio atómico, energía de ionización, afinidad electrónica, electronegatividad).
 
-https://blog.orange.es/noticias/que-es-stem-y-por-que-se-las-conoce-como-profesiones-del-futuro/
-https://www.lavanguardia.com/vida/formacion/20200207/473328901977/ciencias-tecnologia-matematicas-carrera-universidad-rectorese-espana-educacion.html
-https://www.clarin.com/tecnologia/adictos-celular-mitad-adolescentes-argentinos-pasan-12-horas-dia-telefono-mano_0_J8XsHzftS.html
-https://www.fing.edu.uy/sites/default/files/claustro_citaciones/2017/distribuido/31436/53%20(2016-2018)%20Com.%20Activ.%20Ense%C3%B1anza.%20Documento%20Problema%20de%20la%20Matem%C3%A1tica%2007.10.17.pdf
-https://www.nuevarevista.net/el-auge-de-las-microcredenciales-y-su-impacto-en-la-educacion-del-futuro/
-https://www.infobae.com/educacion/2018/01/24/psicologos-y-abogados-pero-no-ingenieros-en-algunas-disciplinas-clave-se-reciben-menos-de-25-alumnos/
-https://fiq.unl.edu.ar/vivilafiq/en-busca-de-mas-ingenieros-para-cambiar-la-argentina/
-https://www.trespuntoelearning.com/insignias-digitales-elearning/
+2. Enlace Químico y Geometría Molecular:
+a. Tipos de enlaces: iónico, covalente (puro y polar), metálico.
+b. Teoría del octeto y estructuras de Lewis.
+c. Geometría molecular: teoría de repulsión de pares electrónicos (VSEPR).
+d. Polaridad de moléculas.
+e. Fuerzas intermoleculares: dipolo-dipolo, puentes de hidrógeno, fuerzas de dispersión de London.
 
+3. Estequiometría:
+a. Masa molar, número de Avogadro y el mol.
+b. Relaciones masa-mol-volumen en reacciones químicas.
+c. Balance de ecuaciones químicas.
+d. Cálculos estequiométricos en reacciones químicas (reagente limitante y rendimiento porcentual).
+e. Leyes ponderales: ley de conservación de la masa, ley de proporciones definidas y múltiples.
+
+4. Estados de la Materia y Gases:
+a. Propiedades de los estados sólido, líquido y gaseoso.
+b. Cambios de estado y diagramas de fase.
+c. Teoría cinético-molecular de los gases.
+d. Leyes de los gases: Boyle, Charles, Gay-Lussac, ley del gas ideal.
+e. Mezclas gaseosas: ley de Dalton y difusión (ley de Graham).
+
+5. Soluciones y Concentraciones:
+a. Tipos de mezclas: homogéneas y heterogéneas.
+b. Solubilidad, efecto de la temperatura y presión.
+c. Unidades de concentración: % masa, % volumen, molaridad, molalidad, normalidad.
+d. Diluciones y preparación de soluciones.
+e. Propiedades coligativas: descenso del punto de congelación, aumento del punto de ebullición, presión osmótica.
+
+6. Reacciones Químicas y Energía:
+a. Tipos de reacciones: síntesis, descomposición, desplazamiento, doble sustitución, combustión, ácido-base y redox.
+b. Reacciones exotérmicas y endotérmicas.
+c. Diagramas de energía de reacción.
+d. Entalpía, entropía y energía libre de Gibbs (nociones básicas).
+e. Principio de conservación de la energía química.
+
+7. Equilibrio Químico:
+a. Concepto de equilibrio en sistemas cerrados.
+b. Constante de equilibrio (Kc y Kp).
+c. Principio de Le Châtelier y factores que afectan el equilibrio.
+d. Equilibrios homogéneos y heterogéneos.
+e. Aplicaciones del equilibrio en procesos industriales.
+
+8. Ácidos, Bases y pH:
+a. Definiciones de Arrhenius, Brønsted-Lowry y Lewis.
+b. Fuerza de ácidos y bases, disociación y constante de acidez (Ka) y basicidad (Kb).
+c. Concepto de pH, pOH y cálculo.
+d. Indicadores ácido-base.
+e. Soluciones amortiguadoras (buffers) y titulación ácido-base.
+
+9. Electroquímica:
+a. Reacciones redox: agentes oxidantes y reductores.
+b. Celdas galvánicas (voltaicas) y electrolíticas.
+c. Potenciales estándar de electrodo.
+d. Leyes de Faraday y aplicaciones prácticas (corrosión, electrólisis, baterías).
 
 ## Tecnologías
 
@@ -114,9 +190,10 @@ https://www.trespuntoelearning.com/insignias-digitales-elearning/
 
 ## Supuestos y dependencias
 
-- Los usuarios tienen acceso regular a internet
-- Las instituciones educativas proporcionarán el contenido curricular específico
-- Disponibilidad de APIs para servicios de autenticación
+- Los usuarios tienen acceso regular a internet.
+- Los alumnos disponen de dispositivos móviles.
+- La institución educativa que implemente la solución proporcionará el contenido curricular específico que se puede adicionar al contenido base.
+- Disponibilidad de APIs para servicios de autenticación federada como Microsoft 365, Azure AD, Google Workspace, etc. 
 
 ## Requerimientos Funcionales y No funcionales
 
