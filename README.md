@@ -354,6 +354,7 @@ Como docente o coordinador, quiero visualizar estadísticas de uso y avance de l
 ## Ejercicios de ejemplo:
 
 Ver documentos anexos
+
 Ejercitación tipo Matemática
 https://github.com/josecastineiras/sebas/blob/fe5a49748a901bfd45e3213768bed1aefaa24176/Ejmat.docx
 
