@@ -124,35 +124,30 @@ b. Estructura del átomo: protones, neutrones y electrones.
 c. Número atómico, número másico e isótopos.
 d. Configuración electrónica y niveles de energía.
 e. Clasificación de elementos en la tabla periódica: grupos, períodos y propiedades periódicas (radio atómico, energía de ionización, afinidad electrónica, electronegatividad).
-
 2. Enlace Químico y Geometría Molecular:
 a. Tipos de enlaces: iónico, covalente (puro y polar), metálico.
 b. Teoría del octeto y estructuras de Lewis.
 c. Geometría molecular: teoría de repulsión de pares electrónicos (VSEPR).
 d. Polaridad de moléculas.
 e. Fuerzas intermoleculares: dipolo-dipolo, puentes de hidrógeno, fuerzas de dispersión de London.
-
 3. Estequiometría:
 a. Masa molar, número de Avogadro y el mol.
 b. Relaciones masa-mol-volumen en reacciones químicas.
 c. Balance de ecuaciones químicas.
 d. Cálculos estequiométricos en reacciones químicas (reagente limitante y rendimiento porcentual).
 e. Leyes ponderales: ley de conservación de la masa, ley de proporciones definidas y múltiples.
-
 4. Estados de la Materia y Gases:
 a. Propiedades de los estados sólido, líquido y gaseoso.
 b. Cambios de estado y diagramas de fase.
 c. Teoría cinético-molecular de los gases.
 d. Leyes de los gases: Boyle, Charles, Gay-Lussac, ley del gas ideal.
 e. Mezclas gaseosas: ley de Dalton y difusión (ley de Graham).
-
 5. Soluciones y Concentraciones:
 a. Tipos de mezclas: homogéneas y heterogéneas.
 b. Solubilidad, efecto de la temperatura y presión.
 c. Unidades de concentración: % masa, % volumen, molaridad, molalidad, normalidad.
 d. Diluciones y preparación de soluciones.
 e. Propiedades coligativas: descenso del punto de congelación, aumento del punto de ebullición, presión osmótica.
-
 6. Reacciones Químicas y Energía:
 a. Tipos de reacciones: síntesis, descomposición, desplazamiento, doble sustitución, combustión, ácido-base y redox.
 b. Reacciones exotérmicas y endotérmicas.
@@ -166,14 +161,12 @@ b. Constante de equilibrio (Kc y Kp).
 c. Principio de Le Châtelier y factores que afectan el equilibrio.
 d. Equilibrios homogéneos y heterogéneos.
 e. Aplicaciones del equilibrio en procesos industriales.
-
 8. Ácidos, Bases y pH:
 a. Definiciones de Arrhenius, Brønsted-Lowry y Lewis.
 b. Fuerza de ácidos y bases, disociación y constante de acidez (Ka) y basicidad (Kb).
 c. Concepto de pH, pOH y cálculo.
 d. Indicadores ácido-base.
 e. Soluciones amortiguadoras (buffers) y titulación ácido-base.
-
 9. Electroquímica:
 a. Reacciones redox: agentes oxidantes y reductores.
 b. Celdas galvánicas (voltaicas) y electrolíticas.
